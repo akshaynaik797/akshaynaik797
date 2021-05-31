@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @akshaynaik797 :relaxed:	
 - 👀 I’m interested in :snake: python
-- 🌱 I’m currently learning :snake: python
-- 💞️ I’m looking to collaborate on :snake: python
 - 📫 How to reach me
   - :email: akshaynaik797@gmail.com
 
